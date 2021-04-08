@@ -7,3 +7,7 @@
 3：再进入  网站--设置--PHP版本--选择PHP73 切换 
 
 4：然后打开浏览器访问http://域名/index.php 
+
+5：后台登录地址为http://域名/index.php/admin/index/index.html
+
+6：测试账号admin 密码admin888
